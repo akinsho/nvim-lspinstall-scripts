@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 if [[ -f ~/.local/bin/rust-analyzer ]]
 then
   rm -rf ~/.local/bin/rust-analyzer
